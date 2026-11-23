@@ -119,7 +119,7 @@ Crop-Disease-Detection/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Crop-Disease-Detection.git
+git clone https://github.com/mohantripathi90706-svg/Crop-Disease-Detection.git
 ```
 
 Navigate to the project directory:
